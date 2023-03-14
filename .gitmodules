@@ -9,7 +9,7 @@
 	url = git://gcc.gnu.org/git/gcc.git
 [submodule "tool/qemu"]
 	path = tool/qemu
-	url = git://git.qemu.org/qemu.git
+	url = https://gitlab.com/qemu-project/qemu.git
 [submodule "tool/musl"]
 	path = tool/musl
 	url = git://git.musl-libc.org/musl
